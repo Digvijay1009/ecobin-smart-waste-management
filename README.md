@@ -208,12 +208,11 @@ Distance is calculated using the **Haversine Formula** for accurate GPS-based di
 * <img width="960" height="433" alt="Screenshot 2026-06-23 132804" src="https://github.com/user-attachments/assets/06bebebf-ff01-4ad2-a969-ab9b18862c8b" />
 
 
-Git Repo - https://github.com/Pruthviraj-01/Smart-Waste-Management-System-Main.git
+Git Repo - https://github.com/Digvijay1009/ecobin-smart-waste-management.git
 
-Demo Video- https://drive.google.com/file/d/1OwLa97n2w0KFCPWFcfSKB_4p0ZOPHL4q/view?usp=sharing 
+Demo Video- https://drive.google.com/file/d/186MixQg03RVssafOX4wyOWHw3NjnCv5s/view?usp=sharing 
 
 ## 👤 Author
 
-**Your Name**
+**Digvijay Rengade**
 Final Year Project — IoT / Smart Cities / Web Development
-SmartInternz Externship Program — 2024
